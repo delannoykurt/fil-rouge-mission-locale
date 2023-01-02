@@ -1,7 +1,7 @@
 ## Checklist Projet
 
 - [ x ] **Choix de la méthodologie (Agile)**
-- [ ] **Créer un repo Github**
+- [ x ] **Créer un repo Github**
 - [ ] **Créer la structure du repo (Best practice)**
 
 - [ ] **Mise en du Readme**
